@@ -1,0 +1,10 @@
+.DS_Store
+*.csv
+*.pkl
+*.pdf
+*.png
+*.jpg
+*.log
+*.out
+*.gz
+*.aux
